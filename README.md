@@ -26,3 +26,17 @@ Kind of. I love {bookdown} and I have written multiple on-line books with it but
 * Lack of solid cross-ref working across formats is a deal-breaker for government reports.
 * The ability to use "@" to find your cross-refs that you can do with Visual mode in RStudio... I can't live without that now. 
 * Quarto still has some hacks, but many many fewer. A lot of stuff seems to just work.
+
+
+_____________________________________________________________________________________________________________
+Disclaimer:
+
+This repository is a scientific product and is not official communication of the National Oceanic and
+Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is
+provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of
+Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed
+by all applicable Federal law. Any reference to specific commercial products, processes, or services by service
+mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or
+favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a
+DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by
+DOC or the United States Government.
